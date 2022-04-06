@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devhojaelee
 - 👀 I’m interested in cloud architecture. 
-- 🌱 I’m currently learning about CI/CD and IaC.
+- 🌱 I’m currently learning about CI/CD, IaC, and kubernetes.
 - 📫 Contact me here : hoje0711@naver.com
 
 <!---
